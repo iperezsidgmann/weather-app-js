@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    background-image: url('/assets/img/wallpaper.png');
+  }
+  
+  .contenedor {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(226, 237, 247);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.226);
+    position: relative;
+    top: 50vh;
+    transform: translateY(-50%);
+  }
+    
+  h1 {
+    color: #333333;
+  }
+  
+  input[type="text"] {
+    padding: 9px;
+    font-size: 16px;
+    width: 70%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #datosClima {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
