@@ -1,4 +1,3 @@
 # weather-app-js
-App de clima utilizando JS + API
 
-https://weather-with-js-app.netlify.app/
+Ejercicio de una app para el consumo de una api utilizando Javascript y CSS, desplegado en Netlify.
